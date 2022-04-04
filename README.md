@@ -1,0 +1,2 @@
+# Sistema-de-Visualizacion-de-Tableros
+Sulu es un sistema de gestión de contenido PHP de código abierto altamente extensible basado en el marco Symfony . Sulu está desarrollado para ofrecer sitios web multilingües y multiportales robustos al tiempo que proporciona una interfaz de administración intuitiva y extensible para administrar el ciclo de vida completo del contenido.  Eche un vistazo al sitio web oficial de Sulu para obtener una lista completa de las funciones, los valores fundamentales y los casos de uso de Sulu.
